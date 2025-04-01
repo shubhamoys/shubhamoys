@@ -1,4 +1,3 @@
-# 💫 About Me:
 <h1 align="center"> Hi 👋🏻, I'm Shubhamoy Sarker </h1>
 
 <p align="center">I build scalable backends, craft seamless UIs, and dive into new technologies.</p>
